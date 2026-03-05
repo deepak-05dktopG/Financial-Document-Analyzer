@@ -257,7 +257,7 @@ function App() {
                     <div className="footer-socials" aria-label="Social links">
                         <a
                             className="footer-social-link"
-                            href="http://deepakdigitalcraft.tech/"
+                            href="http://deepakdigitalcraft.works/"
                             target="_blank"
                             rel="noreferrer"
                             aria-label="Website"
